@@ -1,7 +1,10 @@
 import turtle
-
 t = turtle.Turtle()
-
 t.width(5)
 t.forward(100)
+t.left(120)
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.left(120)
 turtle.done()
