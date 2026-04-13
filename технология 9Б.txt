@@ -60,3 +60,6 @@ for j in range(2):
   t.forward(25)
 
 turtle.done()
+
+13.04 Заменяю ФСА
+Pygame
