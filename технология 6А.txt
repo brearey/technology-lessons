@@ -96,3 +96,7 @@ t.right(120)
 t.end_fill()
 
 t.mainloop()
+
+# may 8
+
+Привет. Задание на завтра https://forms.gle/4dgabcJpxGBxBCp18
